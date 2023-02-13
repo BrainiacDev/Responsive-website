@@ -1,8 +1,8 @@
 # Responsive Startup Website
 
-A Tutorial for beginners on how to develop responsive websites using HTML & CSS
+A Tutorial for beginners on how to develop responsive multiple pages websites using HTML & CSS
 
 ![project image](https://github.com/BrainiacDev/Responsive-website)
 
-- [view the live demo 🚀]()
+- [view the live demo 🚀](responsive-multi-page-website.netlify.app)
 

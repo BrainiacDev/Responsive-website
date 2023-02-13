@@ -4,5 +4,5 @@ A Tutorial for beginners on how to develop responsive multiple pages websites us
 
 ![project image](https://github.com/BrainiacDev/Responsive-website)
 
-- [view the live demo 🚀](responsive-multi-page-website.netlify.app)
+- [view the live demo 🚀](https://responsive-multi-page-website.netlify.app/)
 
